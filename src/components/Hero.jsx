@@ -202,7 +202,7 @@ function Hero() {
 
         <div className="grid grid-cols-[repeat(auto-fit,minmax(290px,1fr))] gap-6 mt-10">
                                
-                             
+                                {/* ----1--- */}
           <div
             className="bg-neutral-900  p-6 rounded-xl
             shadow-lg flex flex-col justify-between hover:shadow-slate-300"
